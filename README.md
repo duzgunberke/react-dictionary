@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<b> Live Site ==> https://627e49585162aa0080e666c8--sweet-tartufo-4b0192.netlify.app/ </b>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
